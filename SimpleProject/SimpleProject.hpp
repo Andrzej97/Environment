@@ -5,6 +5,8 @@
 #include "Scheduler.hpp"
 #include "HelloWorld.hpp"
 
+//komentarz testowy dla repozytorium
+
 namespace project
 {	
 
