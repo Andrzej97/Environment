@@ -2,7 +2,7 @@
 
 #include <memory>
 #include <stdexcept>
-#include "Scheduler.hpp"
+#include "../Messaging/Scheduler.hpp"
 #include "HelloWorld.hpp"
 
 namespace project
@@ -25,3 +25,5 @@ private:
 };
 
 } // namespace project
+
+//New comments - Łukasz Popko
