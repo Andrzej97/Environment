@@ -5,6 +5,7 @@
 #include "Scheduler.hpp"
 #include "HelloWorld.hpp"
 
+//definicja przestrzeni nazw
 namespace project
 {	
 
@@ -13,6 +14,7 @@ struct CommandError: std::logic_error
     CommandError();
 };
 
+//klasa
 class SimpleProject
 {
 public:
