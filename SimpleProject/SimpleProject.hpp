@@ -10,7 +10,7 @@ namespace project
 
 struct CommandError: std::logic_error
 {
-    CommandError();
+    CommandError(); // some comment about command error
 };
 
 class SimpleProject
