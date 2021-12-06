@@ -8,7 +8,7 @@
 namespace project
 {	
 
-struct CommandError: std::logic_error
+struct CommandError: std::logic_error//zmiana
 {
     CommandError();
 };
