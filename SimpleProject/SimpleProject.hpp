@@ -13,6 +13,8 @@ struct CommandError: std::logic_error
     CommandError();
 };
 
+//test KK
+
 class SimpleProject
 {
 public:
