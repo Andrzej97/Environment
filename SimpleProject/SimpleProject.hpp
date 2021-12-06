@@ -5,7 +5,7 @@
 #include "Scheduler.hpp"
 #include "HelloWorld.hpp"
 
-namespace project
+namespace project  // namespace project
 {	
 
 struct CommandError: std::logic_error
