@@ -18,7 +18,7 @@ class SimpleProject
 public:
     SimpleProject(Scheduler& scheduler, const std::string& command);
     SimpleProject(const SimpleProject& ) = delete;
-    SimpleProject& operator=(const SimpleProject&) = delete;
+    SimpleProject& operator=(const SimpleProject&) = delete; // disable assigment
     
 private:
     Scheduler& msg_scheduler;
