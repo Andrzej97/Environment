@@ -2,7 +2,7 @@
 
 #include "Message.hpp"
 
-namespace project
+namespace project//Test comment
 {
 
 CommandError::CommandError()
