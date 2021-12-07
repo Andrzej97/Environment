@@ -23,5 +23,5 @@ public:
 private:
     Scheduler& msg_scheduler;
 };
-
+//komentarz do commitu
 } // namespace project
