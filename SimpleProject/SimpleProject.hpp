@@ -1,4 +1,4 @@
-#pragma once
+#pragma once	// test comment only
 
 #include <memory>
 #include <stdexcept>
