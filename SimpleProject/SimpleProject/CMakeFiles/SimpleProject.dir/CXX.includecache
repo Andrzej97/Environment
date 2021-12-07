@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Messaging/IMessage.hpp
+cstdint
+-
+memory
+-
+
+../Messaging/Message.hpp
+IMessage.hpp
+../Messaging/IMessage.hpp
+
+../Messaging/Scheduler.hpp
+memory
+-
+
+/home/paro/Environment/SimpleProject/HelloWorld.hpp
+cstdint
+-
+
+/home/paro/Environment/SimpleProject/SimpleProject.cpp
+SimpleProject.hpp
+/home/paro/Environment/SimpleProject/SimpleProject.hpp
+Message.hpp
+/home/paro/Environment/SimpleProject/Message.hpp
+
+/home/paro/Environment/SimpleProject/SimpleProject.hpp
+memory
+-
+stdexcept
+-
+Scheduler.hpp
+/home/paro/Environment/SimpleProject/Scheduler.hpp
+HelloWorld.hpp
+/home/paro/Environment/SimpleProject/HelloWorld.hpp
+
