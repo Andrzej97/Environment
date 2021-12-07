@@ -25,3 +25,5 @@ private:
 };
 
 } // namespace project
+
+// Gitlab flow test
