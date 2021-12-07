@@ -24,4 +24,6 @@ private:
     Scheduler& msg_scheduler;
 };
 
+// Komentarz git test
+
 } // namespace project
