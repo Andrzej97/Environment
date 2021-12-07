@@ -1,4 +1,4 @@
-#pragma once
+#pragma once //No hejka
 
 #include <memory>
 #include <stdexcept>
