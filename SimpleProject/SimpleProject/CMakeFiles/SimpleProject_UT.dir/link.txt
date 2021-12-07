@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/SimpleProject_UT.dir/ut/TestSimpleProject.cpp.o -o SimpleProject_UT  libSimpleProject.a ../lib/libgtest_main.a ../lib/libgmock.a ../lib/libgtest.a -lpthread 
